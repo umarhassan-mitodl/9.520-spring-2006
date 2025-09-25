@@ -1,0 +1,59 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "legacy_uid": "4c4d3cf0-ae06-0d3b-8f76-be8f26d0b61c",
+  "instructors": {
+    "content": [
+      "5f6bd7a0-06b9-c3c4-8759-e6aab3545d24"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "316d39a3-9abf-be64-400b-8d63f6a14bb2",
+    "website": "9-520-statistical-learning-theory-and-applications-spring-2006"
+  },
+  "course_title": "Statistical Learning Theory and Applications",
+  "hide_download": true,
+  "course_description": "This course is for upper-level graduate students who are planning careers in computational neuroscience. This course focuses on the problem of supervised learning from the perspective of modern statistical learning theory starting with the theory of multivariate function approximation from sparse data. It develops basic tools such as Regularization including Support Vector Machines for regression and classification. It derives generalization bounds using both stability and VC theory. It also discusses topics such as boosting and feature selection and examines applications in several areas: Computer Vision, Computer Graphics, Text Classification, and Bioinformatics. The final projects, hands-on applications, and exercises are designed to\u00a0illustrate the rapidly increasing practical uses of the techniques described throughout the course.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.520",
+  "course_image_thumbnail": {
+    "content": "c5271a57-d0b1-8393-b65e-be6065d33e4c",
+    "website": "9-520-statistical-learning-theory-and-applications-spring-2006"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "4b315458-adc9-44b2-81ac-388505b0bc84",
+  "site_short_id": "9.520-spring-2006",
+  "site_url_path": "courses/9-520-statistical-learning-theory-and-applications-spring-2006",
+  "title": "Course Metadata"
+}
