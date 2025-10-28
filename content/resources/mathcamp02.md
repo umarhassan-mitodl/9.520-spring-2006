@@ -8,8 +8,6 @@ description: 'This resource provides information on topics such as s-algebra, me
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/f195bbc782726fc4580586a67d4fe69c_mathcamp02.pdf
 file_size: 103678
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

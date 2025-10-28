@@ -5,8 +5,6 @@ description: This resource provides information some methods for unsupervised le
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/5c60bd62c9ca6f13ada6a4634cf8dd90_class07.pdf
 file_size: 171918
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

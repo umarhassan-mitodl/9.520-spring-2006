@@ -5,8 +5,6 @@ description: This resource provides a description of the session on tikhonov reg
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/8e87c76b9706951813115aeb741557cc_lec15.pdf
 file_size: 22208
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

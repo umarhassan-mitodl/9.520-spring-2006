@@ -6,8 +6,6 @@ description: This resource provides information on topics such as riemannian man
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/ac2ecaa3f10fd43f8f521027d01a6e5f_class06.pdf
 file_size: 196386
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

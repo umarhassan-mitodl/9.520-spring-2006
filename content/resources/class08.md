@@ -4,8 +4,6 @@ description: This resource provides information on the topic of multiclass class
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/f6d624932f373fcc370c6e0cdb4ba656_class08.pdf
 file_size: 273531
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

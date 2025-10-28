@@ -5,8 +5,6 @@ description: This resource provides a description of the session on multiclass c
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/0ccda1bc88bd5c7925ec738c418dfe59_lec8.pdf
 file_size: 21789
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

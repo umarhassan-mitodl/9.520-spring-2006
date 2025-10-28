@@ -5,8 +5,6 @@ description: This resource provides a list of supplementary readings for the ses
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/b8f7ea8e10b44d1922a8a80ddc19939a_lec18.pdf
 file_size: 12811
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

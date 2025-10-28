@@ -36,7 +36,6 @@
     "website": "9-520-statistical-learning-theory-and-applications-spring-2006"
   },
   "course_title": "Statistical Learning Theory and Applications",
-  "hide_download": true,
   "course_description": "This course is for upper-level graduate students who are planning careers in computational neuroscience. This course focuses on the problem of supervised learning from the perspective of modern statistical learning theory starting with the theory of multivariate function approximation from sparse data. It develops basic tools such as Regularization including Support Vector Machines for regression and classification. It derives generalization bounds using both stability and VC theory. It also discusses topics such as boosting and feature selection and examines applications in several areas: Computer Vision, Computer Graphics, Text Classification, and Bioinformatics. The final projects, hands-on applications, and exercises are designed to\u00a0illustrate the rapidly increasing practical uses of the techniques described throughout the course.\n",
   "department_numbers": [
     "9"
@@ -47,7 +46,6 @@
     "content": "c5271a57-d0b1-8393-b65e-be6065d33e4c",
     "website": "9-520-statistical-learning-theory-and-applications-spring-2006"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"

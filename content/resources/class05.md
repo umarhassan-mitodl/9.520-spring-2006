@@ -6,8 +6,6 @@ description: This resource provides information on topics such as regularization
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/c14e22ec9ca93ea5f7781d3d5f91f286_class05.pdf
 file_size: 164086
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

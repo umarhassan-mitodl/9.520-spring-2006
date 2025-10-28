@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section lists the required and recommended readings for each session.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -12,11 +10,11 @@ uid: a88c4986-be97-bea7-1c68-64759f85ca96
 
 There is no textbook for this course. All the required information will be presented in the slides associated with each class. The books/papers listed below are useful general reference reading, especially from the theoretical viewpoint. A list of suggested readings is also provided for each class separately.
 
-Boucheron, S., O. Bousquet, and G. Lugosi. "Theory of Classification: A Survey of Recent Advances." _ESAIM: Probability and Statistics_ 9 (2005): 323-375. ([PDF](http://www.econ.upf.edu/~lugosi/esaimsurvey.pdf))
+Boucheron, S., O. Bousquet, and G. Lugosi. "Theory of Classification: A Survey of Recent Advances." _ESAIM: Probability and Statistics_ 9 (2005): 323-375. ({{% resource_link "dfa3892f-424b-4669-a085-8203016e06ec" "PDF" %}})
 
-———. "Introduction to Statistical Learning Theory." In _Advanced Lectures on Machine Learning_. Lecture Notes in Artificial Intelligence 3176. Edited by O. Bousquet, U. Von Luxburg, and G. Ratsch. Heidelberg, Germany: Springer, 2004, pp. 169-207. ([PDF](https://link.springer.com/chapter/10.1007/978-3-540-28650-9_8))
+———. "Introduction to Statistical Learning Theory." In _Advanced Lectures on Machine Learning_. Lecture Notes in Artificial Intelligence 3176. Edited by O. Bousquet, U. Von Luxburg, and G. Ratsch. Heidelberg, Germany: Springer, 2004, pp. 169-207. ({{% resource_link "4609f948-8904-44ec-bd91-9136022571dc" "PDF" %}})
 
-Bousquet, O. "New Approaches to Statistical Learning Theory." _Annals of the Institute of Statistical Mathematics_ 55, no. 2 (2003): 371-389. ([PS](https://link.springer.com/article/10.1007/BF02530506))
+Bousquet, O. "New Approaches to Statistical Learning Theory." _Annals of the Institute of Statistical Mathematics_ 55, no. 2 (2003): 371-389. ({{% resource_link "13473472-2367-4694-8a0d-e8a0a99a6117" "PS" %}})
 
 Vapnik, V. _The Nature of Statistical Learning Theory_. New York, NY: John Wiley & Sons, 1995. ISBN: 0387987800.
 
@@ -26,13 +24,13 @@ Devroye, L., L. Gyorfi, and G. Lugosi. _A Probabilistic Theory of Pattern Recogn
 
 Cristianini, N., and J. Shawe-Taylor. _Introduction To Support Vector Machines_. Cambridge, UK: Cambridge University Press, 2000. ISBN: 0521780195.
 
-Evgeniou, T., and M. Pontil, and T. Poggio. "Regularization Networks and Support Vector Machines." _Advances in Computational Mathematics_ 13, no. 1 (2000). ([PDF](http://cbcl.mit.edu/publications/ps/evgeniou-reviewall.pdf))
+Evgeniou, T., and M. Pontil, and T. Poggio. "Regularization Networks and Support Vector Machines." _Advances in Computational Mathematics_ 13, no. 1 (2000). ({{% resource_link "ff60abc8-16b5-4f45-872f-eb9f5b064bb7" "PDF" %}})
 
-Cucker, F., and S. Smale. "On The Mathematical Foundations of Learning." _Bulletin of the American Mathematical Society_ 39, no. 1 (2002). ([PS - 1.7 MB](https://www.ams.org/journals/bull/2002-39-01/S0273-0979-01-00923-5/S0273-0979-01-00923-5.pdf))
+Cucker, F., and S. Smale. "On The Mathematical Foundations of Learning." _Bulletin of the American Mathematical Society_ 39, no. 1 (2002). ({{% resource_link "bf16703d-ce56-4d29-ac9d-3aedd50fb62f" "PS - 1.7 MB" %}})
 
-Poggio, T., and S. Smale. "The Mathematics of Learning: Dealing with Data." _Notices of the AMS_ 50, no. 5 (2003): 537-544. ([PDF](http://cbcl.mit.edu/publications/ps/notices-ams2003refs.pdf))
+Poggio, T., and S. Smale. "The Mathematics of Learning: Dealing with Data." _Notices of the AMS_ 50, no. 5 (2003): 537-544. ({{% resource_link "eab7bd05-248a-4266-99b8-2fc11d7969c9" "PDF" %}})
 
-Poggio, T., R. Rifkin, S. Mukherjee, and P. Niyogi. "General Conditions for Predictivity in Learning Theory." _Nature_ 428 (2004): 419-422. ([PDF](http://cbcl.mit.edu/publications/ps/nature-predictivity.pdf)) (See also Past Performance and Future Results). ([PDF](http://cbcl.mit.edu/news/files/news-views-march-04.pdf))
+Poggio, T., R. Rifkin, S. Mukherjee, and P. Niyogi. "General Conditions for Predictivity in Learning Theory." _Nature_ 428 (2004): 419-422. ({{% resource_link "7a4253c9-1aae-4c0e-ba61-8ebf5d0a2fc1" "PDF" %}}) (See also Past Performance and Future Results). ({{% resource_link "a8ed43fc-7de6-4d6a-804b-ccbc4bf8e3f6" "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}

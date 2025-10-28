@@ -5,8 +5,6 @@ description: This resource provides information on topics such as active learnin
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/0821974faaa4096b44f2e3699c893d7a_class22.pdf
 file_size: 347266
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,8 +6,6 @@ description: This resource provides information on the topic of reproducing kern
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/00c2df0f1aef97104899611e8879b9f4_class03.pdf
 file_size: 153950
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

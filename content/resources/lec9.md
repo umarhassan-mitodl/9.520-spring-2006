@@ -5,8 +5,6 @@ description: This resource provides a list of suggested reading for the session 
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/76e68a688d5bea28573e4d0870e7d4b9_lec9.pdf
 file_size: 22737
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource conatins a description of the course.
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/739dc964e46b6ede1db38b243d842d1e_lec1.pdf
 file_size: 13145
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

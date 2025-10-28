@@ -5,8 +5,6 @@ description: This resource provides a review of stability bounds and gives infor
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/c1de7af976f01e9520f87b66e1fcd328_class15.pdf
 file_size: 178191
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

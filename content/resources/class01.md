@@ -5,8 +5,6 @@ description: This resource provides information on the topic of learning as asso
 file: /courses/9-520-statistical-learning-theory-and-applications-spring-2006/ab9c0fb69884a0a8ac334033ebaf817c_class01.pdf
 file_size: 8531043
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
